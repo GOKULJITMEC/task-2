@@ -1,0 +1,23 @@
+*{
+    background: #fcdd76;
+    font: 400;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-size: 120%;
+}
+.span1 a{
+    text-decoration: none;
+    color: aqua;
+}
+.span2 a{
+    text-decoration: none;
+    color: rgb(253, 60, 1);
+}
+ul>li:nth-child(2){
+    color: #fd00fd;
+}
+ul>li:nth-child(3){
+    color: #48fd00;
+}
